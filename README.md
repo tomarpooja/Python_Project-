@@ -1,2 +1,3 @@
-# Python_Project-
-MY PYTHON PROJECT
+## EDA Mini Project
+- [Titanic + Iris EDA](EDA_Titanic_Iris.ipynb)
+
